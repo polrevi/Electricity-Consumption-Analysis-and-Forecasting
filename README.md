@@ -1,8 +1,22 @@
-Exploratory Data Analysis and Modeling of Household Electricity Consumption
-This project includes two Jupyter notebooks:
+# ⚡ Household Electricity Consumption — EDA & Forecasting
 
-Exploratory Data Analysis (EDA):
-The first notebook explores the time series of electricity consumption. It analyzes patterns at different temporal resolutions — yearly, monthly, daily, and hourly — to better understand usage behavior over time.
+This project analyzes the electricity consumption of a household through two Jupyter notebooks:
 
-Forecasting Model:
-The second notebook focuses on forecasting electricity consumption. It builds predictive models using hourly and daily aggregated data to anticipate future consumption patterns.
+## 📊 1. Exploratory Data Analysis (EDA)
+
+The first notebook explores the time series of electricity consumption with a focus on:
+
+- Yearly trends
+- Monthly and daily patterns
+- Hourly usage behavior
+
+The goal is to understand how consumption varies over time and identify any recurring patterns or anomalies.
+
+## 🔮 2. Forecasting Model
+
+The second notebook develops a predictive model to forecast electricity consumption using:
+
+- Hourly and daily aggregated data
+- Time series modeling techniques
+
+The objective is to estimate future electricity usage based on historical data.
